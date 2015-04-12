@@ -2,10 +2,10 @@
 <body>
 
 <center>
-<h1><i>This is a Maven Demo</i></h1>
+<h1><i>This is a Maven Demos</i></h1>
 </center><br/>
 
-<h2>Hello World!</h2>
+<h2>Hello Ashish!</h2>
 
 </body>
 </html>
