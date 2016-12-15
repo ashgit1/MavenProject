@@ -2,7 +2,7 @@
 <body>
 
 <center>
-<h1><i>Maven Demo</i></h1>
+<h1><i>Maven Demo App</i></h1>
 </center><br/>
 
 <h2>Hello Ashish !!!</h2>
